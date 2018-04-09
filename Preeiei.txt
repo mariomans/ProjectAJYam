@@ -1,0 +1,32 @@
+Guest user
+Guest user register
+Examinees /edit profile /view their own profile.
+login Guest user
+Guest user can log in to the mobile application.
+Examinees database
+Examiners can scan QR code on mobile application.
+register examination.| delete the registration | view the examination registration confirmation.
+Examinees view the examination result.
+Examinees can view the examination result on the mobile application.
+Examinees can view the examination schedule on the mobile application.
+Examinees log out
+Examinees and Examiner can logout of mobile application.
+admin
+staff
+Admin can log in to the administration system.
+Admin can add inspectors| can view the information | can search edit | can delete the account 
+Admin can view the information of examinees.| can search | can delete
+Staffs log in
+can view their own profile.
+can change the password.
+can create the examination. | Staffs can delete the examination.
+Staffs can upload the examinees’ identification documents. | can view the examinees’ identification documents. 
+| can search for the examinees’ identification documents by examinees’ id. | Staffs can delete the examinees’ identification documents.
+Staffs can print out the examination form from examinees with QR code.
+Staffs can print out the name list of examinees.
+Staffs can create the examination room.|search the examination room.
+Inspectors
+Inspectors can log in
+Inspectors can change the password.
+Inspectors can search the examinees by the examinee’s ID for input the examination result.
+Inspectors can search the examinees by the examination schedule for input the examination result.
