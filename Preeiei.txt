@@ -14,7 +14,8 @@ Examinees and Examiner can logout of mobile application.
 admin
 staff
 Admin can log in to the administration system.
-Admin can add inspectors| can view the information | can search edit | can delete the account 
+Admin can add inspectors,staff,Examiner| can view the inspectors,staff,Examiner information | can search inspectors,staff,Examiner information 
+|can edit inspectors,staff,Examiner information  | can delete the account 
 Admin can view the information of examinees.| can search | can delete
 Staffs log in
 can view their own profile.
